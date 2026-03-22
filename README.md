@@ -38,7 +38,7 @@ An SRT relay sits between your encoder and your streaming platform, stabilising 
 
 | Service | Hosting | Price | Scene Switching | Affiliate |
 |---|---|---|---|---|
-| IRLHost | EU, US, Asia | €12/mo + VAT | Yes (built-in) | Yes (20%) |
+| IRLHost | EU, US, Asia (100% green energy) | €12/mo + VAT | Yes (built-in) | Yes (20%) |
 | Belabox Cloud | Global | ~$10/mo | No | No |
 | IRLServer | Global | Varies | No | No |
 
